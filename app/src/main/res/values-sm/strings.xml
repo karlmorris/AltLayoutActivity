@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FancyScreen</string>
+    <string name="form_name">Igoa</string>
+    <string name="form_email">Imeli</string>
+    <string name="form_extension">Fa\'aopoopoga</string>
+    <string name="form_department">Matagaluega</string>
+    <string name="form_supervisor">Supavaisa</string>
+    <string name="form_direct_reports">Tu\'usa\'o lipoti</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Écran sophistiqué</string>
+    <string name = "email_label"> E-mail </string>
+    <string name = "extension_label"> Extension</string>
+    <string name = "department_label">  Département</string>
+    <string name = "superivisor_label">Superviseur</string>
+    <string name = "direct_report_to_label">Collaborateurs directs</string>
+</resources>

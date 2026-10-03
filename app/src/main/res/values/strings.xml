@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FancyScreen</string>
+    <string name = "email_label"> Email </string>>
+    <string name = "extension_label"> Extension</string>>
+    <string name = "department_label"> Department </string>>
+    <string name = "superivisor_label">Supervisor</string>
+    <string name = "direct_report_to_label">Direct Reports</string>
 </resources>
